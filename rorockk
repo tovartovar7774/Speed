@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1,SONY CINE
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1,FRANCE 24
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1,24 HORAS CHI
+https://ythls.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
+#EXTINF:-1,LA 1 ESPANA
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1,TODO NOTICIAS ARG
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1,MEGAVISION
+https://ythls.onrender.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
+#EXTINF:-1,TV PUBLICA ARG
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1,VIX CINE CLUB
+https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
+#EXTINF:-1,VIX
+https://linear-195.frequency.stream/195/hls/master/playlist.m3u8
+#EXTINF:-1,CINE ACCION
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1,CINE ASIS
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+#EXTINF:-1,CINE COMEDIA
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1,CINE DRAMA
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8 
+#EXTINF:-1,CINE EUROPA
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+#EXTINF:-1,CINE FAMILIA
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1,CINE HINDI
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:-1,CINE LATINO
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:-1,CINE SUSPENSO
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:-1,CINE TERROR
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1,CARTOON RETRO
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1,XTREMO 1
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:-1,XTREMO 2
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:-1,XTREMO TV
+https://tv.xtremochannel.com:3730/live/xtremochannellive.m3u8
+#EXTINF:-1,HISPAN TV
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:-1,LA NACION ARG
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:-1,24/7 NOTICIAS
+https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
+#EXTINF:-1,ATRESCINE
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+#EXTINF:-1,AMERICATV
+https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
+#EXTINF:-1,ACS NETWORK
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+#EXTINF:-1,BOLIVISION
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1,AUSTRAL TV
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+#EXTINF:-1,ANTARES TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1,C5N
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1,26 NOTICIAS
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1,BOREAL TV
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+#EXTINF:-1,EL PAIS TV
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:-1,EL TRECE ARG
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1,1HD MUSIC
+https://sc.id-tv.kz/1hd.m3u8
+#EXTINF:-1,70s,80s
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1,CHART HITS
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1,MTV HITS
+http://178.170.47.109/MTVHITS/index.m3u8
+#EXTINF:-1,MTV 2000s
+http://195.24.89.82/VH1_SD/index.m3u8
+#EXTINF:-1,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1,ONE TV MUSIC
+https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
+#EXTINF:-1,POWER LOVE MUSIC
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1,RETRO PLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1,RETRO PLUS 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF:-1,MEGA CLASIC
+https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
+#EXTINF:-1,THE BOX UK
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+
+
+
+
+
+
+
+
+
+
+
+
